@@ -109,31 +109,60 @@
     <li>Crie uma lista definindo cada uma das tags usadas em listas HTML.</li>
 </ol>
 
-<h3>Exercício 01</h3>
+<hr>
+
+<h3>Soluções dos exercícios</h3>
+
+<h4>Exercício 1</h4>
+<p><em>Este é um exemplo de solução, não a solução definitiva. Para ver a solução, exiba o código fonte desta página.</em></p>
 
 <ul>
-    <li>Ele &rarr; primeiro aluno</li>
-    <li>Ela &rarr; segunda aluna</li>
+    <li>Anderson</li>
+    <li>Caio</li>
+    <li>Daniel</li>
+    <li>Davi</li>
+    <li>David</li>
+    <li>Erika</li>
+    <li>Gabriel</li>
+    <li>João</li>
+    <li>Luca</li>
+    <li>Lucas</li>
+    <li>Rodrigo</li>
+    <li>Stefan</li>
+    <li>Vinícius</li>
+    <li>Wendel</li>
 </ul>
 
-<h3>Exercício 02</h3>
+<h4>Exercício 2</h4>
+<p><em>Este é um exemplo de solução, não a solução definitiva. Para ver a solução, exiba o código fonte desta página.</em></p>
+
 <ol>
-    <li>Acordar</li>
-    <li>desligar o despertador</li>
-    <li>tomar banho</li>
-    <li>tomar remédio matinal</li>
+    <li>10:00 - Acordar</li>
+    <li>10:10 - Cochilar</li>
+    <li>10:50 - Acordar atrasado</li>
+    <li>10:55 - Escovar os dentes</li>
+    <li>11:00 - Nõ tomar banho porque está sem água</li>
+    <li>11:05 - Encher-se de perfume para disfarçar o cheiro</li>
+    <li>11:10 - Sair para trabalhar com fome porque se atrasou</li>
+    <li>12:00 - Comer porcaria no cmelô para matar a fome</li>
 </ol>
 
-<h3>Tags de HTML para uso</h3>
+<h4>Exercício 3</h4>
+<p><em>Este é um exemplo de solução, não a solução definitiva. Para ver a solução, exiba o código fonte desta página.</em></p>
+
 <dl>
     <dt>UL</dt>
-    <dd>Lista desordenada</dd>
-
+    <dd>Cria uma lista não ordenada</dd>
     <dt>OL</dt>
-    <dd>Lista ordenada</dd>
-
+    <dd>Cria uma lista ordenada</dd>
+    <dt>LI</dt>
+    <dd>Cria um item de lista ordenada ou não ordenada</dd>
     <dt>DL</dt>
-    <dd>Lista de definições</dd>
-    
+    <dd>Cria uma lista de definições</dd>
+    <dt>DT</dt>
+    <dd>Cria um termo a ser definido</dd>
+    <dt>DD</dt>
+    <dd>Apresenta a definição do termo</dd>
 </dl>
+
 <?php require __DIR__ . "/_footer.php"; ?>
