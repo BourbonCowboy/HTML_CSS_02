@@ -1,6 +1,8 @@
+
 <?php require __DIR__ . "/_header.php"; ?>
 
 <style>
+    /*O Commit do Git foi errado*/
     .elup {
         background-color: pink;
     }
